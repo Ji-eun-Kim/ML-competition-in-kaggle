@@ -1,6 +1,11 @@
-# 인사 정보 데이터 기반 연봉 예측 모델링 대회 
+<h2 align='center'> 인사 정보 데이터 기반 연봉 예측 모델링 </h2>
+<h3 align='center'> [전공] 머신러닝 Competition </h3>
+<h4 align='center'> (2022.10. ~ 2022.11.)  
 
-<br/>
+![Aqua Lines](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+&nbsp;
+
 
 ## 1. 배경 및 목적
 
